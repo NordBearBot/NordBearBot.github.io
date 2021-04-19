@@ -1,1 +1,1 @@
-# NordbearBot.github.io
+# NordBearBot.github.io
